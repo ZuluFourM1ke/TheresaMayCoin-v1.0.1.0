@@ -1,0 +1,9 @@
+Building TheresaMay
+
+See doc/readme-qt.rst for instructions on building TheresaMay QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheresaMay.
+
+See doc/build-*.txt for instructions on building TheresaMayd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheresaMay.
